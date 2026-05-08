@@ -2,10 +2,9 @@
 
 This document outlines the official schedule for the SSCS Chipathon 2026 event.
 <br>All dates and activities are subject to confirmation.
-<br>The weekly zoom meeting will be defined soon.
-<br>Please follow the Chipathon Discord Server [Join_server](https://discord.gg/tvZcQzvt7q) for up-to-date information. 
-<br>Teams are expected to complete a report by Wednesday of each week (TBD).
-<br>Individuals should complete a report up until the week after they join a team (TBD).
+<br>This is the [weekly zoom meeting link](https://us06web.zoom.us/j/87694732928?pwd=gjUePaAEKDJB2G3f2d4iPIqyYe0qBx.1).
+<br>Please follow the Chipathon Discord Server [Join_server](https://discord.gg/tvZcQzvt7q) for up-to-date information and **announcements**. 
+<br>All participants should complete a report by Wednesday of **each** week (TBD).
 
 ## 🗓️ Detailed Timeline
 
