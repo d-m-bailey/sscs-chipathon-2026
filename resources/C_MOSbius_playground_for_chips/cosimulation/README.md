@@ -12,6 +12,8 @@ The block diagram of the co-simulation system is presented below.
 
 ## Compiling and validating the Verilog code.
 
+All the material associated with this part of the flow is in the [`schematic_view/`](schematic_view/) folder.
+
 ## Verilog view
 
 Follows the block diagram of the circuit that instantiates a Verilog view into a symbol and the schematic of a current mirror.
