@@ -40,7 +40,7 @@ This document outlines the official schedule for the SSCS Chipathon 2026 event.
 | Week 31 | July 31 | **Layout Tutorial** | • DRC, LVS (Mitch) <br> • PEX and ESD (Juan) |  |  |  |  |
 | | Aug. 6 | **DRC Dry-run** | System test |  |  |  |  |
 | Week 32 | Aug. 7 | **Layout Review** 🎓 | Sample layout review (Track leads) |  |  |  |
-| | Aug. 10 | **Layout reviews due** | System test |  |  |  |  |
+| | Aug. 10 | **Layout reviews due** |  |  |  |  |  |
 | Week 33 | Aug. 14 | **Layout Review (blocks)** 👥 | - |  |  |  |
 | Week 34 | Aug. 21 | **Layout Review (top level)** 👥 | - |  |  |  |
 |  | | **DRC Dry-run GDS to Channel Partner**  | |  |  |  |
