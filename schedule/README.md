@@ -31,14 +31,16 @@ This document outlines the official schedule for the SSCS Chipathon 2026 event.
 | Week 27 | July 3 | **Analog Design Ideas** 👥  | • Tutorial: Schematic Database & Simulations (Peter)<br>• Analog devices for RF applications (Sadayuki) | [Watch](https://umich.zoom.us/rec/share/G1UI1TosjYKMwKF4Ch-825-VkSVN8HsssF5V2BszuauIvt-E1fwuxImJwqmELOdT.DvgOEzMRptvZiIXK) | [View](https://docs.google.com/presentation/d/e/2PACX-1vT6_7SeMOCoETnaTSsmBUs8t7HBvNqna3o8iZrcOSkAemD8K-OZi1ihgp5ifIU_RQ/pub) | closed |
 | Week 28 | July 10 | **Simulation Review ** 👥 | All Tracks | [Watch](https://us06web.zoom.us/rec/share/vYH0AHVXKRxuB5qv7Qa5zLBaJmBCuDbb7Mlhprb4NFNlV_We-RuGdIWAwGqj9Ev5.85soQjXpRPLCV61x) | [View](https://docs.google.com/presentation/d/e/2PACX-1vQu4OL4bGMeo0tYBlg5y0VrtAt3enfcN0XMSJuuREcCLNH0gHLj2LPLzJXg_QDgnA/pub) | [Submit](https://forms.gle/YAeWbujbwm3gB8Py7) |
 | Week 29 | July 17 | **Simulation Review ** 👥 | All Tracks |  |  |  |
-|  | | **READiness Check & Go/No-go Decision** |  |  |  |  |
+|  | July 23 | **READiness Check & Go/No-go Decision** |  |  |  |  |
 
 ### Phase 4: Layout and Verification
 | Week | Date | Event | Details | 🔴 Recording | 📊 Slides | 📄 Report |
 |------|------|-------|----------|:-----------:|:--------:|:------:|
-| Week 30 | July 24 | **Layout Tutorial** 🎓 | • DRC, LVS, PEX (Mitch, Juan) <br> (tentative) |  |  |  |
-| Week 31 | July 31 | **DRC Dry-run** | GDS to Channel Partner |  |  |  |  |
-| Week 32 | Aug. 7 | **Integration Tutorial** 🎓 | Layout, Top level, ESD, padframe, packaging (Tim, Juan) |  |  |  |
+| Week 30 | July 24 | **Layout Tutorial** 🎓 | • Layout (Tim) <br> • Multi project integration (Camilo?) |  |  |  |
+| Week 31 | July 31 | **Layout Tutorial** | • DRC, LVS (Mitch) <br> • PEX and ESD (Juan) |  |  |  |  |
+| | Aug. 6 | **DRC Dry-run** | System test |  |  |  |  |
+| Week 32 | Aug. 7 | **Layout Review** 🎓 | Sample layout review (Track leads) |  |  |  |
+| | Aug. 10 | **Layout reviews due** | System test |  |  |  |  |
 | Week 33 | Aug. 14 | **Layout Review (blocks)** 👥 | - |  |  |  |
 | Week 34 | Aug. 21 | **Layout Review (top level)** 👥 | - |  |  |  |
 |  | | **DRC Dry-run GDS to Channel Partner**  | |  |  |  |
