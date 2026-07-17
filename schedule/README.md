@@ -36,7 +36,7 @@ This document outlines the official schedule for the SSCS Chipathon 2026 event.
 ### Phase 4: Layout and Verification
 | Week | Date | Event | Details | 🔴 Recording | 📊 Slides | 📄 Report |
 |------|------|-------|----------|:-----------:|:--------:|:------:|
-| Week 30 | July 24 | **Layout Tutorial** 🎓 | • Layout (Tim) <br> • Multi project integration (Camilo?) |  |  |  |
+| Week 30 | July 24 | **Layout Tutorial** 🎓 | • Multi project integration (Camilo?) |  |  |  |
 | Week 31 | July 31 | **Layout Tutorial** | • DRC, LVS (Mitch) <br> • PEX and ESD (Juan) |  |  |  |  |
 | | Aug. 6 | **DRC Dry-run** | System test |  |  |  |  |
 | Week 32 | Aug. 7 | **Layout Review** 🎓 | Sample layout review (Track leads) |  |  |  |
