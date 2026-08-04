@@ -37,7 +37,7 @@ This document outlines the official schedule for the SSCS Chipathon 2026 event.
 | Week | Date | Event | Details | 🔴 Recording | 📊 Slides | 📄 Report |
 |------|------|-------|----------|:-----------:|:--------:|:------:|
 | Week 30 | July 24 | **Layout Tutorial** 🎓 | • Multi project integration (Kevin/Camilo) | [Watch](https://drive.google.com/file/d/1IAf3W2IWuYzNrSMNgAEH3uIleoFttFvY/view?usp=drive_link) | [View](https://docs.google.com/presentation/d/1VLdZGv5mM02g3VPxl28PMymxcQm1z8lniKxDtyPx3s4/edit?slide=id.p1#slide=id.p1) | closed |
-| Week 31 | July 31 | **Layout Tutorial** | • Layout with Magic (Tim) <Tim> | [Watch](https://us06web.zoom.us/rec/share/lVaD79B6jKntMzZz0C2xVqkWM8nBpbEDJ80HO9V-N553lhdMxdHk4PtrTprP56pN.MzmIbUBbEY1KPKRV) | [View](https://drive.google.com/file/d/1ThvY7gLRgJ4xpwUJcNzq9kU-S7qUDn6j/view?usp=drive_link) | pending |  |
+| Week 31 | July 31 | **Layout Tutorial** | • Layout with Magic (Tim) <Tim> | [Watch](https://us06web.zoom.us/rec/share/lVaD79B6jKntMzZz0C2xVqkWM8nBpbEDJ80HO9V-N553lhdMxdHk4PtrTprP56pN.MzmIbUBbEY1KPKRV) | [View](https://drive.google.com/file/d/1ThvY7gLRgJ4xpwUJcNzq9kU-S7qUDn6j/view?usp=drive_link) | [Submit](https://forms.gle/Mod78EMcMEnyDDWj7) |  |
 | | Aug. 6 | **DRC Dry-run** | System test |  |  |  |  |
 | Week 32 | Aug. 7 | **Layout Review** 🎓 | Sample layout review (Track leads) <br>• LVS (Mitch) <br> • PEX and ESD (Juan) |  |  |  |
 | | Aug. 10 | **Layout reviews due** |  |  |  |  |  |
