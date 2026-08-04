@@ -36,10 +36,10 @@ This document outlines the official schedule for the SSCS Chipathon 2026 event.
 ### Phase 4: Layout and Verification
 | Week | Date | Event | Details | 🔴 Recording | 📊 Slides | 📄 Report |
 |------|------|-------|----------|:-----------:|:--------:|:------:|
-| Week 30 | July 24 | **Layout Tutorial** 🎓 | • Multi project integration (Kevin/Camilo) | [Watch](https://drive.google.com/file/d/1IAf3W2IWuYzNrSMNgAEH3uIleoFttFvY/view?usp=drive_link) | [View](https://docs.google.com/presentation/d/1VLdZGv5mM02g3VPxl28PMymxcQm1z8lniKxDtyPx3s4/edit?slide=id.p1#slide=id.p1) | [Submit](https://forms.gle/75FydUpL4dycHyDNA) |
-| Week 31 | July 31 | **Layout Tutorial** | • Layout with Magic (Tim) <Tim> <br>• DRC, LVS (Mitch) <br> • PEX and ESD (Juan) |  |  |  |  |
+| Week 30 | July 24 | **Layout Tutorial** 🎓 | • Multi project integration (Kevin/Camilo) | [Watch](https://drive.google.com/file/d/1IAf3W2IWuYzNrSMNgAEH3uIleoFttFvY/view?usp=drive_link) | [View](https://docs.google.com/presentation/d/1VLdZGv5mM02g3VPxl28PMymxcQm1z8lniKxDtyPx3s4/edit?slide=id.p1#slide=id.p1) | closed |
+| Week 31 | July 31 | **Layout Tutorial** | • Layout with Magic (Tim) <Tim> | [Watch](https://us06web.zoom.us/rec/share/lVaD79B6jKntMzZz0C2xVqkWM8nBpbEDJ80HO9V-N553lhdMxdHk4PtrTprP56pN.MzmIbUBbEY1KPKRV) | [View](https://drive.google.com/file/d/1ThvY7gLRgJ4xpwUJcNzq9kU-S7qUDn6j/view?usp=drive_link) | pending |  |
 | | Aug. 6 | **DRC Dry-run** | System test |  |  |  |  |
-| Week 32 | Aug. 7 | **Layout Review** 🎓 | Sample layout review (Track leads) |  |  |  |
+| Week 32 | Aug. 7 | **Layout Review** 🎓 | Sample layout review (Track leads) <br>• LVS (Mitch) <br> • PEX and ESD (Juan) |  |  |  |
 | | Aug. 10 | **Layout reviews due** |  |  |  |  |  |
 | Week 33 | Aug. 14 | **Layout Review (blocks)** 👥 | - |  |  |  |
 | Week 34 | Aug. 21 | **Layout Review (top level)** 👥 | - |  |  |  |
