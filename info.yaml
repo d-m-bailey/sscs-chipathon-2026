@@ -6,6 +6,7 @@
 
 # data will be pulled from main branch of the repo.
 # please be sure that the main branch contains the data you want to submit.
+# This file will be updated with more information later
 
 # ======================================================
 # Project metadata (used for documentation / review)
@@ -15,5 +16,5 @@ project:
   team: ""                      # Your Team name
   discord: ""                   # Optional: Discord username (for support / communication)
   description: "PDK test data"  # Short one-line description
-  lvs_config: "<path-to-lvs_config.json>"
+  lvs_config: "<relative-path-to-lvs_config.json>"
 
