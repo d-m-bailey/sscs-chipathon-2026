@@ -45,7 +45,7 @@ This document outlines the official schedule for the SSCS Chipathon 2026 event.
 | Week 34 | Aug. 21 | **Layout Review (top level)** 👥 | - | [Watch](https://us06web.zoom.us/rec/share/prA6j1XtoWaUbdebyKJVQrpo_-G9a8KGzaKhOfdC9f7TQwvLnU6h3ltzaRtFK1d0.MsUONuAZgI77hC8B) | [View](https://docs.google.com/presentation/d/e/2PACX-1vQ9YaW02IyV1JNVb9v7MFsYQmWg_FRd4e3IGgzmIUCwyp-L7mW9mI_fVnLXYEX8yg/pub) | closed |
 |  | Aug. 28 | **DRC Dry-run GDS to Channel Partner**  | |  |  |  |
 | Week 35 | Aug. 28 | **Verification** 👥 |  | [Watch](https://us06web.zoom.us/rec/share/260XGdGee9oNCitJPMSFKW2mdAE98zccczq6CCA_UyR0U3-QeKueAsTWMglCCUSc.BSGEyKLsZm4Ad8__) | [View](https://docs.google.com/presentation/d/e/2PACX-1vTZgt2_tvTerI289m8oj7jyY9HwZH5GW5R0VJSLcobwlsElXh3c2BL-xDezW5ytFA/pub) | pending |
-| Week 36 | Sept. 4 | **Final Chip Review** 👥 | - |  |  |  |
+| Week 36 | Sept. 4 | **Final Chip Review** 👥 | - | [Watch](https://us06web.zoom.us/rec/share/uQuA8bODtA9-zz8a45lJ1eF3F4uz8rRQwOXyykDOVxPAq29RCQ07kInlCpbSJeDi.ED5CrMFbnupkwDSf) | [View](https://docs.google.com/presentation/d/e/2PACX-1vTJ9drSaL95YhW0uky8v10P2_OcLJdsxjSX1gh_YYKM3nK795pji45JsPrPLWyfgw/pub) | none  |
 |  | Sept. 7 | **Final Submission** | DRC-clean GDS to Channel Partner |  |  |  |  |
 |  | TBD | **Post-mortem** 👥 | Project retrospective |  |  |  |
 
