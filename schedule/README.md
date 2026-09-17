@@ -46,7 +46,9 @@ This document outlines the official schedule for the SSCS Chipathon 2026 event.
 |  | Aug. 28 | **DRC Dry-run GDS to Channel Partner**  | |  |  |  |
 | Week 35 | Aug. 28 | **Verification** 👥 |  | [Watch](https://us06web.zoom.us/rec/share/260XGdGee9oNCitJPMSFKW2mdAE98zccczq6CCA_UyR0U3-QeKueAsTWMglCCUSc.BSGEyKLsZm4Ad8__) | [View](https://docs.google.com/presentation/d/e/2PACX-1vTZgt2_tvTerI289m8oj7jyY9HwZH5GW5R0VJSLcobwlsElXh3c2BL-xDezW5ytFA/pub) | pending |
 | Week 36 | Sept. 4 | **Final Chip Review** 👥 | - | [Watch](https://us06web.zoom.us/rec/share/uQuA8bODtA9-zz8a45lJ1eF3F4uz8rRQwOXyykDOVxPAq29RCQ07kInlCpbSJeDi.ED5CrMFbnupkwDSf) | [View](https://docs.google.com/presentation/d/e/2PACX-1vTJ9drSaL95YhW0uky8v10P2_OcLJdsxjSX1gh_YYKM3nK795pji45JsPrPLWyfgw/pub) | none  |
-|  | Sept. 7 | **Final Submission** | DRC-clean GDS to Channel Partner |  |  |  |  |
+|  | Sept. 7 | ~~**Final Submission**~~ | ~~DRC-clean GDS to Channel Partner~~ |  |  |  |  |
+| Week 37 | Sept. 11 | **Status Update** 👥 | - | [Watch](https://us06web.zoom.us/rec/share/i_qTcDwJTFbZiRBP8syTBQAzP5raDYqWwh6EPuJq9brJVZodVskx72VTuUbSsb3M.wGMC3HGPtOc9Gg0G)  | [View](https://docs.google.com/presentation/d/e/2PACX-1vR3K3bU1Lhi9FxwVbCuP1CXq5s6sMsZVxmEI-SILHeMleXraj1jq7J9Sxnnp1siIg/pub) | none  |
+| Week 38 | Sept. 18 | **Checklists** 👥 | - |  |  | none  |
 |  | TBD | **Post-mortem** 👥 | Project retrospective |  |  |  |
 
 ### Phase 5: Manufacturing and Testing
